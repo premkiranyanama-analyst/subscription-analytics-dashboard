@@ -30,8 +30,13 @@ Analyze subscription data to understand customer retention, churn, revenue trend
 - Tenure varies by cohort, highlighting differences in signup quality and retention behavior over time.
 
 ## Dashboard Export (PDF)
-📄 [Subscription_Analytics.pdf](https://github.com/user-attachments/files/25198580/Subscription_Analytics.pdf)
+📄**[Subscription_Analytics.pdf](https://github.com/user-attachments/files/25198580/Subscription_Analytics.pdf)**
 
+## Business Questions Answered
+- What is the current retention and churn situation?
+- How does revenue trend over time for paid subscriptions?
+- Which signup cohorts demonstrate stronger retention?
+- How long do subscribers stay, on average, by cohort?
 
 ## Author
 Prem Yanama Reddy
