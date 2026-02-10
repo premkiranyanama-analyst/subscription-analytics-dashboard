@@ -9,3 +9,4 @@ CREATE TABLE subscriptions (
   subscription_interval VARCHAR(20),
   was_subscription_paid TINYINT(1)
 );
+
